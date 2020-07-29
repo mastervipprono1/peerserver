@@ -1,0 +1,15 @@
+{
+  "name": "peerserver",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mastervipprono1/peerserver",
+  "author": "phong  nguyen <phongit1995@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "peer": "^0.5.3"
+  }
+}
